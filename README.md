@@ -40,7 +40,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Home pagina
-  <img src="readme-images/at5home.png" width="375px" alt="home pagina">
+  <img src="readme-images/homepaginaat5.png" width="375px" alt="home pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Weer pagina
