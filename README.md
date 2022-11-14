@@ -39,11 +39,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   https://www.at5.nl/
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
+  Home pagina
   <img src="readme-images/at5home.png" width="375px" alt="home pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
+  Weer pagina
   <img src="readme-images/at5weer.png" width="375px" alt="weer pagina">
  
 </details>
