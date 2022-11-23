@@ -59,27 +59,31 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Lijst met je bevindingen die in de test naar voren kwamen:
 
   #### Screenreader
-  Hier korte omschrijving (met indien nodig afbeeldingen)
+  
+Leest logo voor
+Leest kopjes voor
+Lees alt teksten van plaatsjes voor
+Leest knoppen (sluiten) voor
 
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 
   #### Muis en Toetsenbord 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
 
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+Highlight is zwart, op plaatjes is dit niet altijd goed te zien
+Springt tussen het logo en kijk/luisteren dus slaat nieuws (hover menu) over
+Met spatiebalk en pijltjes kan je over de hele pagina heen, selecteren kan met tab/shift 
+Als je in een artiekel bent kant je terug naar de begin pagina door op het logo te klikken
 
 
   #### Motoriek (shocks, elastiekjes)
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+ - 
 
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+ - Wazigheids bril: Tekst is niet te lezen (alleen bij inzoomen) Grijze tekst is het minst zichtbaar 
+- Tunnelbril: Je hebt gelimiteerd zich maar niet per se door de website
+- Motoriek (elastiekjes) de website was goed genoeg te navigeren met elastiekjes om de vingers
+  
 
 </details>
 
