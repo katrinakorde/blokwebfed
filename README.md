@@ -121,10 +121,10 @@ Als je in een artiekel bent kant je terug naar de begin pagina door op het logo 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
+  | Roos           | Splinter           | Danisha      | Katrina       |
   | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+  | dit bespreken  | en dit             | en ik dit    | gedownloade fonts   |
+  | en dat ook nog | dit als er tijd is | nog een punt | css selectors |
   | ...            | ...                | ...          | ...              |
 
 
