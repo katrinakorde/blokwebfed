@@ -125,7 +125,6 @@ Als je in een artiekel bent kant je terug naar de begin pagina door op het logo 
   | ---            | ---                | ---          | ---              |
   | navigatie dropdown/plaatjes makkelijk positioneren en vergroten  | z-index            |link button   | gedownloade fonts   |
   | details summary voor footer | list bewerken      | spans | css selectors |
-  | ...            | ...                | ...          | ...              |
 
 
   ### Verslag van meeting
