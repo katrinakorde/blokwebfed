@@ -123,8 +123,8 @@ Als je in een artiekel bent kant je terug naar de begin pagina door op het logo 
 
   | Roos           | Splinter           | Danisha      | Katrina       |
   | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | gedownloade fonts   |
-  | en dat ook nog | dit als er tijd is | nog een punt | css selectors |
+  | navigatie dropdown/plaatjes makkelijk positioneren en vergroten  | z-index            |link button   | gedownloade fonts   |
+  | details summary voor footer | list bewerken      | spans | css selectors |
   | ...            | ...                | ...          | ...              |
 
 
