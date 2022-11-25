@@ -1,34 +1,85 @@
-/**************/
-/* CSS REMEDY */
-/**************/
-*, *::after, *::before {
-  box-sizing:border-box;  
+body{
+  font-family: Arial, Helvetica, sans-serif;
 }
 
-button, summary {
-	cursor: pointer;
+nav ul li:nth-of-type(1) img{
+ width:2em;
+ height:2em;
+ left:0em;
 }
 
+nav ul li:nth-of-type(2) img{
+  width:2em;
+  height:2em;
+  left:0em;
+ }
 
+nav ul li:nth-of-type(4) img{
+  width:2em;
+  height:2em;
+  left:0em;
+ }
 
+ul{ 
+    display:flex;
+    list-style-type: none;
+    padding: 0em 0em 0em 0em;
+    /* background-color:#f4f4f4; */
+  }
 
+/** bovenste artikel **/
+#bovenartikel {
+    position:relative;
+  }
 
-/*********************/
-/* CUSTOM PROPERTIES */
-/*********************/
-:root {
-	/* startje */
-	--color-text:#111;
-	--color-background:#eee;
+#bovenartikel h2{
+    position:absolute;
+    font-weight: bold;
+    font-size:1em;
+    left:1;
+    bottom:0;
+    margin:0;
+    padding:.5em;
+    color:white;
+    text-shadow: .25em .25em .25em #0000;
+  }
+
+#bovenartikel h3{
+  position: absolute;
+
 }
 
+  #bovenartikel img{
+    width:100%;
+  }
+  
 
 
+p{
+    font-weight:bold;
+  }
+
+h3{
+    display:inline;
+    text-transform: uppercase;
+    /* color:white;
+    padding:.1em;
+    letter-spacing: .1em;
+    background-color: red;
+    background-size: 50%;
+    border-radius: .3em .3em; */
+  }
 
 
-/****************/
-/* JOUW STYLING */
-/****************/
+footer{
+  background-color: #2a211c;
+}
 
-/* jouw code */
+footer img{
+  width:10em;
+  height:7em;
+}
 
+footer p{
+  color:grey;
+}
