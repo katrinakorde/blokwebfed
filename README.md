@@ -155,7 +155,7 @@ Als je in een artiekel bent kant je terug naar de begin pagina door op het logo 
   | Roos     | Splinter         | Danisha    |Katrina     |
   | ---            | ---                | ---          | ---              |
   | ?  | niet aanwezig            | image over andere image  | horizontal scrolling    |
-  | ? |                 | nog een punt |            | positioning image
+  | ? |                 | nog een punt |            | positioning image |
   | ...            | ...                | ...          | ...              |
 
 
