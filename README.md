@@ -152,10 +152,10 @@ Als je in een artiekel bent kant je terug naar de begin pagina door op het logo 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
+  | Roos     | Splinter         | Danisha    |Katrina     |
   | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+  | ?  | niet aanwezig            | image over andere image  | horizontal scrolling    |
+  | ? |                 | nog een punt |            | positioning image
   | ...            | ...                | ...          | ...              |
 
 
@@ -182,15 +182,11 @@ Als je in een artiekel bent kant je terug naar de begin pagina door op het logo 
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
 
   #### Screenreader
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+ Screenreader komt niet verder dan de menu knop, leest alles op het menu voor. Leest letters voor in plaats van het hele woord. 
 
 
   #### Muis en Toetsenbord 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  Alles is tabbaar, alleen bij de header blijft hij lang hangen 
 
 
   #### Motoriek (shocks, elastiekjes)
