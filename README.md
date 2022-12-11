@@ -76,13 +76,12 @@ Als je in een artiekel bent kant je terug naar de begin pagina door op het logo 
 
 
   #### Motoriek (shocks, elastiekjes)
- - 
+ -  Motoriek (elastiekjes) de website was goed genoeg te navigeren met elastiekjes om de vingers
 
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
  - Wazigheids bril: Tekst is niet te lezen (alleen bij inzoomen) Grijze tekst is het minst zichtbaar 
 - Tunnelbril: Je hebt gelimiteerd zich maar niet per se door de website
-- Motoriek (elastiekjes) de website was goed genoeg te navigeren met elastiekjes om de vingers
   
 
 </details>
@@ -182,7 +181,7 @@ Als je in een artiekel bent kant je terug naar de begin pagina door op het logo 
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
 
   #### Screenreader
- Screenreader komt niet verder dan de menu knop, leest alles op het menu voor. Leest letters voor in plaats van het hele woord. 
+ Wanneer de screenreader op het menu komt leest alles in het menu voor. Leest letters voor in plaats van het hele woord. 
 
 
   #### Muis en Toetsenbord 
@@ -190,15 +189,11 @@ Als je in een artiekel bent kant je terug naar de begin pagina door op het logo 
 
 
   #### Motoriek (shocks, elastiekjes)
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  Website is te gebruiken met elastiekjes om je vinger.
 
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+ - 
 
 </details>
 
@@ -271,8 +266,12 @@ Als je in een artiekel bent kant je terug naar de begin pagina door op het logo 
 
   Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-  1. bron 1
-  2. bron 2
-  3. ...
-
+  1. [bron 1](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#aa-properties-for-the-childrenflex-items)
+  2. [bron 2](https://css-tricks.com/pure-css-horizontal-scrolling/)
+  3. [bron 3](https://css-tricks.com/almanac/properties/t/text-shadow/)
+  4. https://codepen.io/sawmac/pen/qBKzmM?editors=1100
+  5. https://codepen.io/KaoriYes/pen/QWxzMyx
+  6. https://codepen.io/shooft/pen/GRxXboQ
+  7. https://stackoverflow.com/questions/7961721/how-do-i-install-a-custom-font-on-an-html-site
+  
 </details>
