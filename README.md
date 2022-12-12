@@ -273,5 +273,6 @@ Als je in een artiekel bent kant je terug naar de begin pagina door op het logo 
   5. https://codepen.io/KaoriYes/pen/QWxzMyx
   6. https://codepen.io/shooft/pen/GRxXboQ
   7. https://stackoverflow.com/questions/7961721/how-do-i-install-a-custom-font-on-an-html-site
+  8.https://css-tricks.com/snippets/css/complete-guide-grid/
   
 </details>
