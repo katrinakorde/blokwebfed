@@ -182,10 +182,11 @@ Als je in een artiekel bent kant je terug naar de begin pagina door op het logo 
 
   #### Screenreader
  Wanneer de screenreader op het menu komt leest alles in het menu voor. Leest letters voor in plaats van het hele woord. 
+  Screenreader leest niet de artikelen voor.
 
 
   #### Muis en Toetsenbord 
-  Alles is tabbaar, alleen bij de header blijft hij lang hangen 
+  Alles is tabbaar, tab is niet te zien wanneer het in het menu zit. 
 
 
   #### Motoriek (shocks, elastiekjes)
