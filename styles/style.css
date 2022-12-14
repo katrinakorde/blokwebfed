@@ -18,7 +18,7 @@
 
 @font-face {
   font-family: "accord";
-  src: url("../font/accord-regular.ttf");
+  src: url("./font/accord-regular.ttf");
 }
 
 body {
@@ -802,7 +802,7 @@ footer button:hover {
 }
 
 /* skip to content button */
-
+/* https://css-tricks.com/how-to-create-a-skip-to-content-link/ */
 .skip-to-content-link {
   height: 1.875em;
   left: 50%;
@@ -816,7 +816,26 @@ footer button:hover {
   transform: translateY(0%);
 }
 
-/* https://css-tricks.com/how-to-create-a-skip-to-content-link/ */
+.darkbody h2,
+.darkbody p {
+  color: var(--body-color);
+}
+
+.darkbody header .toonMenu button {
+  background-color: var(--section-color);
+}
+
+.darkbody .artikel,
+.darkbody main,
+.darkbody main > ul:nth-of-type(1) {
+  background-color: var(--dark-theme);
+}
+
+.darkbody header,
+.darkbody header button {
+  background-color: var(--dark-theme-nav);
+}
+
 
 @media (max-width: 48em) {
   .index main section:nth-of-type(7) ul li:first-of-type .imgbreed {
@@ -912,22 +931,16 @@ footer button:hover {
   }
 }
 
-.darkbody h2,
-.darkbody p {
-  color: var(--body-color);
-}
-
-.darkbody header .toonMenu button {
-  background-color: var(--section-color);
-}
-
-.darkbody .artikel,
-.darkbody main,
-.darkbody main > ul:nth-of-type(1) {
-  background-color: var(--dark-theme);
-}
-
-.darkbody header,
-.darkbody header button {
-  background-color: var(--dark-theme-nav);
+@media (min-width: 80em){
+  .index main section:nth-of-type(5) {
+    width: 80em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto 0 auto;
+  }
+  .index main section:nth-of-type(5) h2{
+    margin-right: auto;
+  }
 }
