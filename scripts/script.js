@@ -1,6 +1,6 @@
 var openButton = document.querySelector("header button:nth-of-type(2)");
 var sluitButton = document.querySelector("nav button");
-var clickLogo = document.querySelector("header img:first-of-type");
+var clickLogo = document.querySelector(".index header img:first-of-type");
 var darkButton = document.querySelector(".dark-mode")
 var geluid = ["audio/geluidje.mp3"];
 var at5Geluid = new Audio(geluid[0]);
