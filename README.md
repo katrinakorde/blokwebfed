@@ -94,13 +94,7 @@ Als je in een artiekel bent kant je terug naar de begin pagina door op het logo 
   <summary>uitwerken na afloop 2e werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
-
-  ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
-
-  ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+  <img src= "readme-images/Artboard – 1.png" width="375px" alt="breakdownschets"/>
 
 </details>
 
@@ -181,8 +175,8 @@ Als je in een artiekel bent kant je terug naar de begin pagina door op het logo 
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
 
   #### Screenreader
- Wanneer de screenreader op het menu komt leest alles in het menu voor. Leest letters voor in plaats van het hele woord. 
-  Screenreader leest niet de artikelen voor.
+ Wanneer de screenreader op het menu komt leest alles in het menu voor.
+ Je moet een paar keer klikken met pijltjes om de artikelen voorgelezen te krijgen.
 
 
   #### Muis en Toetsenbord 
