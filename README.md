@@ -155,10 +155,8 @@ Als je in een artiekel bent kant je terug naar de begin pagina door op het logo 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+  - div maken van h3 en p 
+  - button animatie toevoegen
 
 </details>
 
@@ -180,7 +178,7 @@ Als je in een artiekel bent kant je terug naar de begin pagina door op het logo 
 
 
   #### Muis en Toetsenbord 
-  Alles is tabbaar, tab is niet te zien wanneer het in het menu zit. 
+  Alles is tabbaar, tab is niet te zien wanneer het in het menu zit. Ook op de weer pagina kan je met pijltje door het weerbericht.
 
 
   #### Motoriek (shocks, elastiekjes)
