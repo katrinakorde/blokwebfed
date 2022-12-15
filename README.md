@@ -233,19 +233,35 @@ Als je in een artiekel bent kant je terug naar de begin pagina door op het logo 
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/Schermafbeelding 2022-12-15 194254.png" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/Schermafbeelding 2022-12-15 194317.png" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/Schermafbeelding 2022-12-15 194332.png" width="375px" alt="uitomst opdracht 1">
 
 
   ### Dit ging goed/Heb ik geleerd: 
   Korte omschrijving met plaatjes
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+  <img src="readme-images/Schermafbeelding 2022-12-15 194718.pngg" width="375px" alt="top">
+  <img src="readme-images/Schermafbeelding 2022-12-15 194735.png" width="375px" alt="top">
+  Responsive maken van elementen
+  
+  <img src="readme-images/Schermafbeelding 2022-12-15 195033.png" width="375px" alt="top">
+  Kolommen met rijtjes maken 
+  
 
 
   ### Dit was lastig/Is niet gelukt:
   Korte omschrijving met plaatjes
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  <img src="readme-images/Schermafbeelding 2022-12-15 194624.png" width="375px" alt="bummer">
+  <img src="readme-images/Schermafbeelding 2022-12-15 194605.png" width="375px" alt="bummer">
+  In de originele website is dit een automatische slideshow (carousel)
+  
+  <img src="readme-images/Schermafbeelding 2022-12-15 195131.png" width="375px" alt="bummer">
+  bovenste content veranderd niet
+  
+  
+  
 </details>
 
 
