@@ -241,7 +241,7 @@ Als je in een artiekel bent kant je terug naar de begin pagina door op het logo 
   ### Dit ging goed/Heb ik geleerd: 
   Korte omschrijving met plaatjes
 
-  <img src="readme-images/Schermafbeelding 2022-12-15 194718.pngg" width="375px" alt="top">
+  <img src="readme-images/Schermafbeelding 2022-12-15 194254.png" width="375px" alt="top">
   <img src="readme-images/Schermafbeelding 2022-12-15 194735.png" width="375px" alt="top">
   Responsive maken van elementen
   
