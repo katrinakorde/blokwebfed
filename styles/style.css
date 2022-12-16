@@ -816,6 +816,8 @@ footer button:hover {
   transform: translateY(0%);
 }
 
+/*dark mode*/
+
 .darkbody h2,
 .darkbody p {
   color: var(--body-color);
